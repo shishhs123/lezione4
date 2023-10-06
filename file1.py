@@ -1,1 +1,2 @@
 'import numby'
+'import matplotlib'
